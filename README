@@ -1,1 +1,1 @@
-Sudoku Solver
+Sudoku Solver. Enter board in data.txt, and main.py will solve it. Empty cells should contain '0' in data.txt.
